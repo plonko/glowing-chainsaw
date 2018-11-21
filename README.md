@@ -49,3 +49,10 @@ A table showing items added to the basket, which includes the name, description,
 A CTA to 'order' the items
 Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view where the data is now read only and this CTA is not visible
 
+## Todo
+- [ ] Create component for each section
+* Header
+* Shop
+* Basket
+- [ ] Routing
+
