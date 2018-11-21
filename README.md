@@ -1,14 +1,14 @@
-##Checkout Baskout Example
+# Checkout Baskout Example
 Checkout basket with multiple currency options available
 
-##Principle Technologies Used
+## Principle Technologies Used
 React, Redux, Webpack, SASS
 
-###Contributors
+### Contributors
 Paul Kiernan
 ---
 
-##Brief
+## Brief
 Write a client-side web application in Javascript, React and Redux that can price a basket of goods in a number of different currencies.
 
 The goods that can be purchased are all priced in GBP.
@@ -33,7 +33,7 @@ There will be two main navigational 'pages' within a single page app, and you se
 
 ---
 
-##UI
+## UI
 The UI can be to whatever style you feel fits.
 Thyere should be a header which includes
 * Shop 
