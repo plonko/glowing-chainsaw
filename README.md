@@ -63,7 +63,11 @@ Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view
 ## Todo
 
 - [x] Create component for each section
+- [ ] Create product component
+- [ ] Create currency component
+- [ ] Create checkout table component
 - [ ] Routing
+- [ ] JSON server
 
 ### Considerations
 
@@ -77,5 +81,7 @@ Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view
 }
 ```
 
+- Need a store for basket contents
+- Store product object or UUID?
 - Price will need to be a component
 - Basket will need `readonly` prop
