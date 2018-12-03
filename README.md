@@ -63,11 +63,12 @@ Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view
 ## Todo
 
 - [x] Create component for each section
+- [x] JSON server
+- [ ] GET products on front end
 - [ ] Create product component
 - [ ] Create currency component
 - [ ] Create checkout table component
 - [ ] Routing
-- [ ] JSON server
 
 ### Considerations
 
@@ -75,8 +76,9 @@ Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view
 
 ```
 {
+  id: String,
   name: String,
-  price: String,
+  price: Number,
   description: String
 }
 ```

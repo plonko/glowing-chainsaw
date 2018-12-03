@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Peas",
+      "description": "Fresh organic peas. Give peas a chance!",
+      "price": 0.95
+    },
+    {
+      "id": 2,
+      "name": "Eggs",
+      "description": "Eggscelent eggs from Chicken Farm",
+      "price": 2.1
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "description": "Them bones them bones need calcium!",
+      "price": 1.3
+    },
+    {
+      "id": 4,
+      "name": "Beans",
+      "description": "Eat them now or they'll have bean and gone",
+      "price": 0.73
+    }
+  ]
+}
