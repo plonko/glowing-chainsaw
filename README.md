@@ -59,6 +59,7 @@ Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view
 ## UX diagram
 
 ![Imgur](https://i.imgur.com/JytHSr6.png)
+http://stable.ascii-flow.appspot.com/#Draw2659774117945322624/1090560781
 
 ## Todo
 
