@@ -56,13 +56,26 @@ A table showing items added to the basket, which includes the name, description,
 A CTA to 'order' the items
 Upon click of the "Order" CTA, the basket should be rendered in a 'receipt' view where the data is now read only and this CTA is not visible
 
+## UX diagram
+
+![Imgur](https://i.imgur.com/JytHSr6.png)
+
 ## Todo
 
 - [x] Create component for each section
 - [ ] Routing
 
-## UX diagram
+### Considerations
 
-![Imgur](https://i.imgur.com/JytHSr6.png)
+- Shape of product:
 
-# Considerations
+```
+{
+  name: String,
+  price: String,
+  description: String
+}
+```
+
+- Price will need to be a component
+- Basket will need `readonly` prop
