@@ -27,7 +27,7 @@ class Shop extends Component {
       <div className="shop">
         {this.state.products.map(product => {
           return (
-            <div>
+            <div key={product.id}>
               <div>{product.name}</div>
               <div>{product.description}</div>
               <div>{product.price}</div>
