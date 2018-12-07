@@ -1,9 +1,0 @@
-.app {
-  background-color: #282c34;
-  min-height: 100vh;
-  font-size: 10px;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}

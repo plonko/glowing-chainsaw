@@ -65,7 +65,7 @@ http://stable.ascii-flow.appspot.com/#Draw2659774117945322624/1090560781
 
 - [x] Create component for each section
 - [x] JSON server
-- [ ] GET products on front end
+- [x] GET products on front end
 - [ ] Create product component
 - [ ] Create currency component
 - [ ] Create checkout table component
@@ -88,3 +88,14 @@ http://stable.ascii-flow.appspot.com/#Draw2659774117945322624/1090560781
 - Store product object or UUID?
 - Price will need to be a component
 - Basket will need `readonly` prop
+
+## Components
+
+- App
+- Shop page
+- Basket page
+- Product table
+- Product row
+- Currency dropdown
+- Header
+-
